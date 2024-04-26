@@ -1,4 +1,3 @@
-```
 # Simple Shell Project
 
 ## Overview
@@ -24,5 +23,4 @@ Once compiled, you can run the shell by executing the generated executable:
 ## Notes
 - This shell project is intended for educational purposes and may not cover all edge cases or provide full shell functionality.
 - Feel free to explore and modify the code to add more features or improve functionality.
-```
 
